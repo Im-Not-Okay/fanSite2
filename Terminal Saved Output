@@ -1,0 +1,24 @@
+Last login: Tue Oct 10 08:47:02 on ttys000
+301-3-5:~ web2020$ cd Desktop
+301-3-5:Desktop web2020$ ls
+Briana Marrero		hc1.html		poundcake.html
+News Website		hc2.html		songs
+Revolution Travel	ls			summer-jams
+SWSLegends800.jpg	mc.html
+commandline		playlists
+301-3-5:Desktop web2020$ git clone https://github.com/Im-Not-Okay/gitshop.git 
+Cloning into 'gitshop'...
+remote: Counting objects: 84, done.
+remote: Total 84 (delta 0), reused 0 (delta 0), pack-reused 84
+Unpacking objects: 100% (84/84), done.
+Checking connectivity... done.
+301-3-5:Desktop web2020$ cd gitshop
+301-3-5:gitshop web2020$ ls
+README.md	blog.html	fonts		images		media.html
+about.html	css		games.html	index.html
+301-3-5:gitshop web2020$ 
+
+
+
+
+
